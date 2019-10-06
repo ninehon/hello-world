@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 測試 Markdown 語法
 
-用 Markdown 寫連結：[進入 Google](https://www.google.com)
+用 Markdown 寫連結：[進入 Google](https://www.google.com.tw/)
 
 ```markdown
 Syntax highlighted code block
